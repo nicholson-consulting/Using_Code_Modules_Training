@@ -2,484 +2,484 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6PgImLldnoe":
+      case "6PdsXNrEs4U":
         Script1();
         break;
-      case "6Od7RQsz26F":
+      case "5mAfBBZD5Jm":
         Script2();
         break;
-      case "6hV12NpZwrd":
+      case "6jPrDolhufq":
         Script3();
         break;
-      case "6Gi1Ze93evF":
+      case "6c1GIjoalax":
         Script4();
         break;
-      case "6eoLNFr4cdQ":
+      case "6f2lbQgbNWv":
         Script5();
         break;
-      case "6krVer77MZb":
+      case "5rc2lDk5rm0":
         Script6();
         break;
-      case "6pj3kDuwpz0":
+      case "6b5gqZw2Xit":
         Script7();
         break;
-      case "6oxTclqKqVn":
+      case "5tkLxJ0yrzy":
         Script8();
         break;
-      case "5nZC8tcQJDy":
+      case "6rgPFJuh0Lo":
         Script9();
         break;
-      case "6fWBQucYYVf":
+      case "5eRmCdOpgYP":
         Script10();
         break;
-      case "6h6H0IElquJ":
+      case "6j5qKkkbRFo":
         Script11();
         break;
-      case "6HJW7P6dFdu":
+      case "6LXq5AaNkuG":
         Script12();
         break;
-      case "69nAh8o34UP":
+      case "5Y7WCPbgkr0":
         Script13();
         break;
-      case "6CK8It77C0K":
+      case "6L4ZvqKceqN":
         Script14();
         break;
-      case "6fsJUyUgNyM":
+      case "6Vj1orEyMju":
         Script15();
         break;
-      case "6SuG6x8HWhr":
+      case "6R6fP1mepIH":
         Script16();
         break;
-      case "6IXGgWjF4M5":
+      case "69CLkYHJe3C":
         Script17();
         break;
-      case "68AJ8xyOIcp":
+      case "5iLdQQZ8U4I":
         Script18();
         break;
-      case "6IjlFPCqiaU":
+      case "5yMhmzSaexn":
         Script19();
         break;
-      case "6XCjA0LRi3G":
+      case "5mJWLTUUDk8":
         Script20();
         break;
-      case "6pgLhbkzNpa":
+      case "5hk6jom1vA7":
         Script21();
         break;
-      case "5qBCh9jMVZh":
+      case "6VXj82H0KOs":
         Script22();
         break;
-      case "6DQiMzcAykI":
+      case "6NzbarniYeo":
         Script23();
         break;
-      case "5zzicgNXlIY":
+      case "6S0bW5B9Bwt":
         Script24();
         break;
-      case "6QTZoAEcsf2":
+      case "6qkLDmbRkOF":
         Script25();
         break;
-      case "5sscji1KMc2":
+      case "67pBjv05kXL":
         Script26();
         break;
-      case "6ieBuLj4a1c":
+      case "6IM2wIgyjIx":
         Script27();
         break;
-      case "5nlAls9LJbw":
+      case "5wP3slkWcCr":
         Script28();
         break;
-      case "5v4s0UYf0l3":
+      case "6E9MNGNN55r":
         Script29();
         break;
-      case "6REuOhCcyLs":
+      case "69DW6hWpW7G":
         Script30();
         break;
-      case "6h41BdQjpaE":
+      case "5jMnoua7zjS":
         Script31();
         break;
-      case "5dslB75Ey7n":
+      case "5zwvHtDOQfF":
         Script32();
         break;
-      case "6QDFqcCwI7s":
+      case "6FTuQ7tqJI0":
         Script33();
         break;
-      case "6BGLWbGRxIt":
+      case "6bn84skdKip":
         Script34();
         break;
-      case "60IL3bPtDxU":
+      case "6R4rsH7R8zv":
         Script35();
         break;
-      case "6FWGa2K0eLA":
+      case "5mIlYlgPH9Z":
         Script36();
         break;
-      case "5zBocRvukrN":
+      case "6251BNO0b3w":
         Script37();
         break;
-      case "5pON8Xv8Nqj":
+      case "5lbcJJPLiCz":
         Script38();
         break;
-      case "6ecXTzpeEgF":
+      case "6FHcXkGRc7R":
         Script39();
         break;
-      case "6KjWJC0XnqU":
+      case "6SJljQXeObB":
         Script40();
         break;
-      case "68TvLWupwCe":
+      case "60zC6L65C6h":
         Script41();
         break;
-      case "5b3gJw96GOi":
+      case "5zu4EjId59u":
         Script42();
         break;
-      case "5w2LkZX5ssJ":
+      case "6QtKafWM3qT":
         Script43();
         break;
-      case "6FGC8rFXfsZ":
+      case "63Nkj8mTzmP":
         Script44();
         break;
-      case "5kKWmgLtuZP":
+      case "6WF5tGXWD29":
         Script45();
         break;
-      case "6K9UvSM2kY3":
+      case "5mc7pxeeeYn":
         Script46();
         break;
-      case "5kfrtSooE6U":
+      case "6BD0p48olkm":
         Script47();
         break;
-      case "6a6p2MGsRcT":
+      case "6Goo2LfsS5w":
         Script48();
         break;
-      case "5y6tEC3orW6":
+      case "6gdIw1jtaci":
         Script49();
         break;
-      case "5av7KurKdRE":
+      case "69BcqQXrmWB":
         Script50();
         break;
-      case "6huAODy2blD":
+      case "5WpUO63azyO":
         Script51();
         break;
-      case "6Q9m5wK5QZ0":
+      case "6E26Mv5dIzS":
         Script52();
         break;
-      case "6BIsSSwmslQ":
+      case "5iM9RBW2KaO":
         Script53();
         break;
-      case "6F3yHG9LgmA":
+      case "62BAvRLnsoU":
         Script54();
         break;
-      case "68WjaljOu0y":
+      case "5caMrQ0rRlR":
         Script55();
         break;
-      case "5b8aEhChrlo":
+      case "5i69uQCyTID":
         Script56();
         break;
-      case "5asXklLDTqq":
+      case "5nkPdikGuBT":
         Script57();
         break;
-      case "5mPQdOX73xa":
+      case "6Phu0FMM9Sx":
         Script58();
         break;
-      case "6Hbvjf5LG4S":
+      case "6q3BINoxkGL":
         Script59();
         break;
-      case "5rvNVukDW18":
+      case "5qpnwfnCiy7":
         Script60();
         break;
-      case "5yOzkAVV09Z":
+      case "6KoqNXpTi9a":
         Script61();
         break;
-      case "6W4wxXcthfP":
+      case "5yqwuFuFhnj":
         Script62();
         break;
-      case "6FAeCdPLPfd":
+      case "5ZGTprNzJK1":
         Script63();
         break;
-      case "5lMgcKsZN83":
+      case "6l1ix88NfIK":
         Script64();
         break;
-      case "5oFuaQAzyTX":
+      case "5bFPOAdMA02":
         Script65();
         break;
-      case "5sq9XyHh3KW":
+      case "6M3mkPaHyYL":
         Script66();
         break;
-      case "5x1HqnaoKKW":
+      case "6Eg2ruRsjcV":
         Script67();
         break;
-      case "6mIO3n51oXL":
+      case "6LPrK5alv1f":
         Script68();
         break;
-      case "6GAK4ozGCCU":
+      case "5ayqFV5WfP8":
         Script69();
         break;
-      case "62nQPiaGiXf":
+      case "6DkLKdp0tC8":
         Script70();
         break;
-      case "5cdKTvNiCLh":
+      case "5vWmsicEXoh":
         Script71();
         break;
-      case "6cyOYqVEfHw":
+      case "5qACQZL3pyM":
         Script72();
         break;
-      case "6ANam2nVDek":
+      case "5oXI1XkZOnI":
         Script73();
         break;
-      case "5YeOn5cpH4e":
+      case "6fwF1xUtq7W":
         Script74();
         break;
-      case "5xquNN6pKL4":
+      case "5sf72QDQEZZ":
         Script75();
         break;
-      case "6okMXKYSnwp":
+      case "6HSGd5g20Ri":
         Script76();
         break;
-      case "6Yi54CgASHY":
+      case "6QDx1REKLwX":
         Script77();
         break;
-      case "6CcDyjDheLd":
+      case "6aj1ZPYPqQW":
         Script78();
         break;
-      case "5iGW6eNaQv2":
+      case "6KIlOmfhF5C":
         Script79();
         break;
-      case "5VdEB0V6FMb":
+      case "6V3z09G72N0":
         Script80();
         break;
-      case "6R47dqLGsEY":
+      case "6hNjyTeWfVt":
         Script81();
         break;
-      case "5b99vIea9S4":
+      case "5qdCLlE5GsR":
         Script82();
         break;
-      case "6UEDLAj7QQR":
+      case "6MNhI5lji8y":
         Script83();
         break;
-      case "67XXKVhYmoo":
+      case "5gMCyY1kvZ7":
         Script84();
         break;
-      case "6MIlFtcOUcu":
+      case "6FwVhDv0L0l":
         Script85();
         break;
-      case "6Z8WMfe7SdL":
+      case "6UzDPIsZ4pU":
         Script86();
         break;
-      case "5atKQ0XIH1i":
+      case "5wFugGFI63b":
         Script87();
         break;
-      case "5o1EGHTSJBB":
+      case "65fe2jxTE6k":
         Script88();
         break;
-      case "5r4Xl7oDlGo":
+      case "6qgmHa2NWCO":
         Script89();
         break;
-      case "5ccBmiawYe1":
+      case "5aWPU93Cg7K":
         Script90();
         break;
-      case "5jYucu5h7zK":
+      case "5yoIxVDUZs9":
         Script91();
         break;
-      case "5WQ9AFzA31u":
+      case "6hfIufwiRI4":
         Script92();
         break;
-      case "6egzGDg4wW0":
+      case "6lOHlCGWpvo":
         Script93();
         break;
-      case "5usFfmkh5c4":
+      case "6OQiyQB4cTI":
         Script94();
         break;
-      case "6Yq0A3Ygmfp":
+      case "5r28BD9Tq5i":
         Script95();
         break;
-      case "5eo2uxFqBQ4":
+      case "5YiIHIOfXBk":
         Script96();
         break;
-      case "6hV3fGP5Gqp":
+      case "6PK4mZJJbhW":
         Script97();
         break;
-      case "6RZA3dbZRMD":
+      case "5ldx8Fk2oZi":
         Script98();
         break;
-      case "5pwnfahzVCf":
+      case "638gkYSexyA":
         Script99();
         break;
-      case "6qEeQAhBQME":
+      case "5k7IWUKAQeY":
         Script100();
         break;
-      case "6ItAWIZ0Uod":
+      case "5x4QuIHmLqn":
         Script101();
         break;
-      case "6548Rdo2Apc":
+      case "6PxBKub9qjM":
         Script102();
         break;
-      case "5q7y1KiX6sR":
+      case "6YvOGqaPRrj":
         Script103();
         break;
-      case "5cq07567fdJ":
+      case "5YaFWdQdzKH":
         Script104();
         break;
-      case "6QAOTJRZqws":
+      case "6M5ZemdXQCA":
         Script105();
         break;
-      case "6o8zoVi89K8":
+      case "6jngGHILSgZ":
         Script106();
         break;
-      case "6joWRB42hlA":
+      case "6PgBQKmkoGW":
         Script107();
         break;
-      case "6GuAVVFiAd5":
+      case "5foaOWxL6bq":
         Script108();
         break;
-      case "6FQcds9fNjI":
+      case "5nKkrfLd4su":
         Script109();
         break;
-      case "5n3FMpuMnhk":
+      case "6NAMdMD3b8f":
         Script110();
         break;
-      case "6gbRn58Qxv9":
+      case "5YUrBZYU3RU":
         Script111();
         break;
-      case "5dnIugjWreb":
+      case "5xrhdfPwvyF":
         Script112();
         break;
-      case "6KXwT2m7X9g":
+      case "69HEMLLnyMi":
         Script113();
         break;
-      case "5cTEImftyLG":
+      case "6V06Svp4CIY":
         Script114();
         break;
-      case "6fhZ3cPnQAz":
+      case "5a3i0pMGcem":
         Script115();
         break;
-      case "6TSAIiGN0KM":
+      case "69wVFlV44Ar":
         Script116();
         break;
-      case "6AqeQ19ipCw":
+      case "5lBWXnXNd2m":
         Script117();
         break;
-      case "5dR4hOUSf4P":
+      case "6nUXdL27ovF":
         Script118();
         break;
-      case "5VVXbvRTZfE":
+      case "5rfEgYEcNan":
         Script119();
         break;
-      case "6o1I9I9PPoF":
+      case "60X57fy4paw":
         Script120();
         break;
-      case "6R3NKSk9CZW":
+      case "6cICLuig2hJ":
         Script121();
         break;
-      case "5gsZzBso2Fi":
+      case "6dXnybyk4J1":
         Script122();
         break;
-      case "5YNJmTY9z7c":
+      case "6EJhiBkHBCS":
         Script123();
         break;
-      case "6Z8JYT8Mwsc":
+      case "5Y7SOABSiJl":
         Script124();
         break;
-      case "5zOIzoa6esY":
+      case "6BPpuw1xgZ6":
         Script125();
         break;
-      case "6CdpYRqKuwX":
+      case "6YqF4rHbGRk":
         Script126();
         break;
-      case "63ezKRhyNAd":
+      case "6CwrA5Qwwtg":
         Script127();
         break;
-      case "5b74QjUeiB1":
+      case "6dvEx7rfj5I":
         Script128();
         break;
-      case "6Gjq5ri9eXD":
+      case "5x5YHvCdr3D":
         Script129();
         break;
-      case "67djHIjUT4H":
+      case "5ehQkNK4u4j":
         Script130();
         break;
-      case "65yQnSaRhj6":
+      case "6QXX37CIJsT":
         Script131();
         break;
-      case "6ZO9UzMbidK":
+      case "6gVmgAbWRgd":
         Script132();
         break;
-      case "5rtzQc8c19P":
+      case "6ANiZ5NDCv5":
         Script133();
         break;
-      case "631Y1jDSvrS":
+      case "5fg3ktKYeEq":
         Script134();
         break;
-      case "5oLozFemGlb":
+      case "6YCA8DTA0Ro":
         Script135();
         break;
-      case "5vUndICo4zM":
+      case "6i09dRs0jPv":
         Script136();
         break;
-      case "5iIJtMLqyeT":
+      case "6rkmPesuNvW":
         Script137();
         break;
-      case "6H1wrrmC8ht":
+      case "5fssEl2VRS8":
         Script138();
         break;
-      case "5sCiY6Rk9Wr":
+      case "6RJ9DCvxwF1":
         Script139();
         break;
-      case "5nf4K3lizJG":
+      case "5Z4vxNhOnWS":
         Script140();
         break;
-      case "6VLNQMD8at7":
+      case "5j0qqFGB8rh":
         Script141();
         break;
-      case "6javZNX1Slt":
+      case "5avYL5Tfwm0":
         Script142();
         break;
-      case "5yR2CqFBcw1":
+      case "5lsEHLIjUCi":
         Script143();
         break;
-      case "6iSpbjpoF0W":
+      case "62Ql5PecUS3":
         Script144();
         break;
-      case "5uubbg3JURK":
+      case "6DA2JWC4Cbn":
         Script145();
         break;
-      case "6afvEYtq9WR":
+      case "6FGFU8ntVPT":
         Script146();
         break;
-      case "5XIA2YcFPqw":
+      case "6mb6OvYM3A2":
         Script147();
         break;
-      case "6LCIRnNIrBe":
+      case "6gaPSdKr65g":
         Script148();
         break;
-      case "5pFDP1iW1dP":
+      case "6mNjRclCkOr":
         Script149();
         break;
-      case "5lNeMYUtakj":
+      case "65VkW5HDXWI":
         Script150();
         break;
-      case "5pP1lFGmAHy":
+      case "6mxvpLBYviH":
         Script151();
         break;
-      case "6JOYVi5Cwbo":
+      case "6GB9mBG1Ay6":
         Script152();
         break;
-      case "5XzR1XgVCGv":
+      case "6YdDUsz7wf9":
         Script153();
         break;
-      case "6cm3bHcvEi6":
+      case "6NLLdljBSXz":
         Script154();
         break;
-      case "5iwQ1gWI0Yh":
+      case "63lrKXHBXMP":
         Script155();
         break;
-      case "6NhemKUAnB4":
+      case "5t0O0aK7Ld8":
         Script156();
         break;
-      case "656KvrV3PrW":
+      case "60du7yWnTWk":
         Script157();
         break;
-      case "6OsSRCm5zGQ":
+      case "6Ws1DMe8PR0":
         Script158();
         break;
-      case "6gBkRCHvuWf":
+      case "5XIxMFaKy8K":
         Script159();
         break;
-      case "6Jk0HvSCGti":
+      case "6g312oKSq4C":
         Script160();
         break;
   }
@@ -510,9 +510,9 @@ const id = '6Mlo8aj9cdn';
 const growAmount = 0.1;
 const delay = 20000;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -529,9 +529,9 @@ const id = '6qqwfwx1i7J';
 const shrinkAmount = 0;
 const delay = 43062;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -548,9 +548,9 @@ const id = '6iOAIp1dWoi';
 const growAmount = 0.1;
 const delay = 48750;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -567,9 +567,9 @@ const id = '63dAKtTnDLm';
 const shrinkAmount = 0;
 const delay = 84000;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -585,11 +585,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -604,11 +606,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -623,11 +627,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -642,11 +648,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -661,11 +669,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -680,11 +690,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -700,9 +712,9 @@ const id = '6TQNBT3zymk';
 const growAmount = 0.1;
 const delay = 59500;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -719,9 +731,9 @@ const id = '5sS7LY6Jc52';
 const shrinkAmount = 0;
 const delay = 26750;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -738,9 +750,9 @@ const id = '5Vi8TI8A2ee';
 const growAmount = 0.1;
 const delay = 26750;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -757,9 +769,9 @@ const id = '6SxICecKnRT';
 const shrinkAmount = 0;
 const delay = 46500;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -776,9 +788,9 @@ const id = '6Q9SA5c2bl2';
 const growAmount = 0.1;
 const delay = 46500;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -795,9 +807,9 @@ const id = '5c55WdjLcTl';
 const shrinkAmount = 0;
 const delay = 59500;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -814,9 +826,9 @@ const id = '6FILQP1hUUH';
 const growAmount = 0.1;
 const delay = 12521;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -833,9 +845,9 @@ const id = '6M9XMilhQbf';
 const shrinkAmount = 0;
 const delay = 66625;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -852,9 +864,9 @@ const id = '5nZK5Hzh26M';
 const growAmount = 0.1;
 const delay = 73021;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -871,9 +883,9 @@ const id = '6XlhCXinCax';
 const shrinkAmount = 0;
 const delay = 94250;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -890,9 +902,9 @@ const id = '6IZk7VIgDlC';
 const growAmount = 0.1;
 const delay = 94250;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -909,9 +921,9 @@ const id = '6pc3RKJWK6s';
 const shrinkAmount = 0;
 const delay = 109250;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -927,9 +939,9 @@ const id = '62INXNV7uWh';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -944,9 +956,9 @@ const id = '5vOv3YC0BLu';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -961,9 +973,9 @@ const id = '62C3mcYuqCq';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -978,9 +990,9 @@ const id = '6TadJotfhLa';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -995,9 +1007,9 @@ const id = '6Uf6eKjzDfy';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1012,9 +1024,9 @@ const id = '5Ye8KamlXUO';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1029,9 +1041,9 @@ const id = '62C3mcYuqCq';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1046,9 +1058,9 @@ const id = '6TadJotfhLa';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1063,9 +1075,9 @@ const id = '62INXNV7uWh';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1080,9 +1092,9 @@ const id = '5vOv3YC0BLu';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1097,9 +1109,9 @@ const id = '5Zh3ZR6rWJr';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1114,9 +1126,9 @@ const id = '6LIkFqALHD7';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1131,11 +1143,13 @@ const id = '6BexuqbzLU3';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1150,11 +1164,13 @@ const id = '5sFbjqFv8sY';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1169,11 +1185,13 @@ const id = '6DDaSTBbrSk';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1188,11 +1206,13 @@ const id = '5qKFq4tINB4';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1207,11 +1227,13 @@ const id = '6YBvumysndv';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1226,11 +1248,13 @@ const id = '6GN4tMGrzOh';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1245,11 +1269,13 @@ const id = '6AmI73kNIYQ';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1264,11 +1290,13 @@ const id = '6SQSP2zeiHG';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1283,15 +1311,15 @@ const id = '5t2qFPVr0DY';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1306,11 +1334,13 @@ const id = '6NP9SyUO70b';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1325,15 +1355,15 @@ const id = '5cPD6my6IlC';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1348,11 +1378,13 @@ const id = '5wn8l2ZbvGt';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1367,15 +1399,15 @@ const id = '5wY7V06D5WG';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1390,11 +1422,13 @@ const id = '6OV3jl9wHq8';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1409,15 +1443,15 @@ const id = '5j6YP60sHOY';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1432,11 +1466,13 @@ const id = '5twmNuqs88c';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1451,15 +1487,15 @@ const id = '5tiq00Sdn8b';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1474,11 +1510,13 @@ const id = '5ZyeoYSZ5UY';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1493,15 +1531,15 @@ const id = '5qLEhCM1ZBr';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1516,11 +1554,13 @@ const id = '6WMDk0GXyyk';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1535,15 +1575,15 @@ const id = '5e5dVbQvVgt';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1559,9 +1599,9 @@ const id = '5Zp7FUtihIG';
 const growAmount = 0.1;
 const delay = 34125;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1578,9 +1618,9 @@ const id = '5rjBh7IT1lY';
 const growAmount = 0.1;
 const delay = 46750;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1597,9 +1637,9 @@ const id = '6pEXIYp0BHw';
 const growAmount = 0.1;
 const delay = 65000;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1616,9 +1656,9 @@ const id = '5rtFHwHNQGL';
 const shrinkAmount = 0;
 const delay = 45938;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1635,9 +1675,9 @@ const id = '66OEAaeo1gL';
 const shrinkAmount = 0;
 const delay = 64500;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1654,9 +1694,9 @@ const id = '5aq1Ndem1cL';
 const shrinkAmount = 0;
 const delay = 68812;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1673,9 +1713,9 @@ const id = '6osrLV3o7q7';
 const growAmount = 0.1;
 const delay = 82750;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1692,9 +1732,9 @@ const id = '5h4uxBgoCAt';
 const growAmount = 0.1;
 const delay = 90062;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1711,9 +1751,9 @@ const id = '6LZjjibv2Fa';
 const shrinkAmount = 0;
 const delay = 89250;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1730,9 +1770,9 @@ const id = '6EfS5gRSy2n';
 const shrinkAmount = 0;
 const delay = 106062;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1749,9 +1789,9 @@ const id = '6hy902msRct';
 const growAmount = 0.1;
 const delay = 11500;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1768,9 +1808,9 @@ const id = '5lw3CUpLlQ7';
 const growAmount = 0.1;
 const delay = 18250;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1787,9 +1827,9 @@ const id = '5wPnlz8gba6';
 const shrinkAmount = 0;
 const delay = 16438;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1806,9 +1846,9 @@ const id = '6aP6nmLnNzO';
 const shrinkAmount = 0;
 const delay = 22500;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -1824,11 +1864,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1843,11 +1885,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1862,11 +1906,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1881,11 +1927,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1900,11 +1948,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1919,11 +1969,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1938,11 +1990,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1957,11 +2011,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1976,11 +2032,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -1995,11 +2053,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2014,11 +2074,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2033,11 +2095,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2053,9 +2117,9 @@ const id = '6Mlo8aj9cdn';
 const growAmount = 0.1;
 const delay = 20000;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2072,9 +2136,9 @@ const id = '6qqwfwx1i7J';
 const shrinkAmount = 0;
 const delay = 43062;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2091,9 +2155,9 @@ const id = '6iOAIp1dWoi';
 const growAmount = 0.1;
 const delay = 48750;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2110,9 +2174,9 @@ const id = '63dAKtTnDLm';
 const shrinkAmount = 0;
 const delay = 84000;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2128,11 +2192,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2147,11 +2213,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2166,11 +2234,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2185,11 +2255,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2204,11 +2276,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2223,11 +2297,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2243,9 +2319,9 @@ const id = '6TQNBT3zymk';
 const growAmount = 0.1;
 const delay = 59500;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2262,9 +2338,9 @@ const id = '5sS7LY6Jc52';
 const shrinkAmount = 0;
 const delay = 26750;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2281,9 +2357,9 @@ const id = '5Vi8TI8A2ee';
 const growAmount = 0.1;
 const delay = 26750;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2300,9 +2376,9 @@ const id = '6SxICecKnRT';
 const shrinkAmount = 0;
 const delay = 46500;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2319,9 +2395,9 @@ const id = '6Q9SA5c2bl2';
 const growAmount = 0.1;
 const delay = 46500;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2338,9 +2414,9 @@ const id = '5c55WdjLcTl';
 const shrinkAmount = 0;
 const delay = 59500;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2357,9 +2433,9 @@ const id = '6FILQP1hUUH';
 const growAmount = 0.1;
 const delay = 12521;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2376,9 +2452,9 @@ const id = '6M9XMilhQbf';
 const shrinkAmount = 0;
 const delay = 66625;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2395,9 +2471,9 @@ const id = '5nZK5Hzh26M';
 const growAmount = 0.1;
 const delay = 73021;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2414,9 +2490,9 @@ const id = '6XlhCXinCax';
 const shrinkAmount = 0;
 const delay = 94250;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2433,9 +2509,9 @@ const id = '6IZk7VIgDlC';
 const growAmount = 0.1;
 const delay = 94250;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2452,9 +2528,9 @@ const id = '6pc3RKJWK6s';
 const shrinkAmount = 0;
 const delay = 109250;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -2470,9 +2546,9 @@ const id = '62INXNV7uWh';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2487,9 +2563,9 @@ const id = '5vOv3YC0BLu';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2504,9 +2580,9 @@ const id = '62C3mcYuqCq';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2521,9 +2597,9 @@ const id = '6TadJotfhLa';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2538,9 +2614,9 @@ const id = '6Uf6eKjzDfy';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2555,9 +2631,9 @@ const id = '5Ye8KamlXUO';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2572,9 +2648,9 @@ const id = '62C3mcYuqCq';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2589,9 +2665,9 @@ const id = '6TadJotfhLa';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2606,9 +2682,9 @@ const id = '62INXNV7uWh';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2623,9 +2699,9 @@ const id = '5vOv3YC0BLu';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2640,9 +2716,9 @@ const id = '5Zh3ZR6rWJr';
 const growAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2657,9 +2733,9 @@ const id = '6LIkFqALHD7';
 const shrinkAmount = 0;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2674,11 +2750,13 @@ const id = '6BexuqbzLU3';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2693,11 +2771,13 @@ const id = '5sFbjqFv8sY';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2712,11 +2792,13 @@ const id = '6DDaSTBbrSk';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2731,11 +2813,13 @@ const id = '5qKFq4tINB4';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2750,11 +2834,13 @@ const id = '6YBvumysndv';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2769,11 +2855,13 @@ const id = '6GN4tMGrzOh';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2788,11 +2876,13 @@ const id = '6AmI73kNIYQ';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2807,11 +2897,13 @@ const id = '6SQSP2zeiHG';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2826,15 +2918,15 @@ const id = '5t2qFPVr0DY';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2849,11 +2941,13 @@ const id = '6NP9SyUO70b';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2868,15 +2962,15 @@ const id = '5cPD6my6IlC';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2891,11 +2985,13 @@ const id = '5wn8l2ZbvGt';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2910,15 +3006,15 @@ const id = '5wY7V06D5WG';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2933,11 +3029,13 @@ const id = '6OV3jl9wHq8';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2952,15 +3050,15 @@ const id = '5j6YP60sHOY';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2975,11 +3073,13 @@ const id = '5ZyeoYSZ5UY';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -2994,15 +3094,15 @@ const id = '5qLEhCM1ZBr';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3017,11 +3117,13 @@ const id = '6WMDk0GXyyk';
 const pulseAmount = 0.1;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3036,15 +3138,15 @@ const id = '5e5dVbQvVgt';
 const shakeAmount = 2;
 player.addForTriggers(
 id,
-target.animate([
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `${shakeAmount}px 0` },
-{ translate: '0 0' },
-{ translate: `-${shakeAmount}px 0` },
-{ translate: '0 0' }
-],
+target.animate(
+[ {translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `${shakeAmount}px 0` }, 
+{translate: '0 0' }, 
+{translate: `-${shakeAmount}px 0` }, 
+{translate: '0 0' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3060,9 +3162,9 @@ const id = '5Zp7FUtihIG';
 const growAmount = 0.1;
 const delay = 34125;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3079,9 +3181,9 @@ const id = '5rjBh7IT1lY';
 const growAmount = 0.1;
 const delay = 46750;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3098,9 +3200,9 @@ const id = '6pEXIYp0BHw';
 const growAmount = 0.1;
 const delay = 65000;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3117,9 +3219,9 @@ const id = '5rtFHwHNQGL';
 const shrinkAmount = 0;
 const delay = 45938;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3136,9 +3238,9 @@ const id = '66OEAaeo1gL';
 const shrinkAmount = 0;
 const delay = 64500;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3155,9 +3257,9 @@ const id = '5aq1Ndem1cL';
 const shrinkAmount = 0;
 const delay = 68812;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3174,9 +3276,9 @@ const id = '6osrLV3o7q7';
 const growAmount = 0.1;
 const delay = 82750;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3193,9 +3295,9 @@ const id = '5h4uxBgoCAt';
 const growAmount = 0.1;
 const delay = 90062;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3212,9 +3314,9 @@ const id = '6LZjjibv2Fa';
 const shrinkAmount = 0;
 const delay = 89250;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3231,9 +3333,9 @@ const id = '6EfS5gRSy2n';
 const shrinkAmount = 0;
 const delay = 106062;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3249,11 +3351,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3268,11 +3372,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3287,11 +3393,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3306,11 +3414,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3325,11 +3435,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3344,11 +3456,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3363,11 +3477,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3382,11 +3498,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3402,9 +3520,9 @@ const id = '6hy902msRct';
 const growAmount = 0.1;
 const delay = 11500;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3421,9 +3539,9 @@ const id = '5lw3CUpLlQ7';
 const growAmount = 0.1;
 const delay = 18250;
 addToTimeline(
-target.animate([
-{ scale: `${1 + growAmount}` }
-],
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3440,9 +3558,9 @@ const id = '5wPnlz8gba6';
 const shrinkAmount = 0;
 const delay = 16438;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3459,9 +3577,9 @@ const id = '6aP6nmLnNzO';
 const shrinkAmount = 0;
 const delay = 22500;
 addToTimeline(
-target.animate([
-{ scale: `${1 - shrinkAmount}` }
-],
+target.animate(
+[ {scale: `${1 - shrinkAmount}` } ]
+,
   { fill: 'forwards', delay, duration, easing }
 ), id
 );
@@ -3477,11 +3595,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3496,11 +3616,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3515,11 +3637,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );
@@ -3534,11 +3658,13 @@ const id = '68TeKAsI8tM';
 const pulseAmount = 0.07;
 player.addForTriggers(
 id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
+target.animate(
+[ {scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' }, 
+{scale: `${1 + pulseAmount}` }, 
+{scale: '1' } ]
+,
   { fill: 'forwards', duration, easing }
 )
 );

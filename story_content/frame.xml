@@ -1544,6 +1544,15 @@
       <string id="transcript_show_timestamp">Show timestamps</string>
       <string id="video_transcript_title">Transcripts</string>
       <string id="acc_window_options">Options</string>
+      <string id="invalid_prompt_button">OK</string>
+      <string id="invalid_prompt_message">You must complete the question before submitting.</string>
+      <string id="invalid_prompt_title">Invalid Answer</string>
+      <string id="print_prompt_button">OK</string>
+      <string id="print_prompt_title">Enter name</string>
+      <string id="print_prompt_message">Enter your name in the field below:</string>
+      <string id="timer_prompt_button">OK</string>
+      <string id="timer_prompt_title">Time Limit Exceeded</string>
+      <string id="timer_prompt_message">You have reached the time limit set for the quiz. Press 'OK' to continue.</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1564,15 +1573,16 @@
             <slidelink slideid="_player.5rWrPpswHdG.6kBZV7xJEYh" displaytext="Before you begin" expand="false" type="slide" />
             <slidelink slideid="_player.5rWrPpswHdG.6TbCHaVmjv7" displaytext="Welcome &amp;amp; Introductions" expand="false" type="slide" />
             <slidelink slideid="_player.5rWrPpswHdG.6ZN1jjuPCsg" displaytext="Course Outline" expand="false" type="slide" />
+            <slidelink slideid="_player.5rWrPpswHdG.6Y8WZUmufJ8" displaytext="Resources for learning more about the IDI" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5nc7jy07LlT" displaytext="Introduction to Code Modules" expand="true" type="slide">
+        <slidelink slideid="_player.5nc7jy07LlT" displaytext="Introduction to Code Modules" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5nc7jy07LlT.6ZUa2SiPskR" displaytext="1. Introduction to Code Modules" expand="false" type="slide" />
             <slidelink slideid="_player.5nc7jy07LlT.5W6RG1BqZrv" displaytext="What are Code Modules for?" expand="false" type="slide" />
             <slidelink slideid="_player.5nc7jy07LlT.6UjThL0DZxS" displaytext="The Structure of a Module" expand="false" type="slide" />
-            <slidelink slideid="_player.5nc7jy07LlT.5Utw3CTxkLb" displaytext="Module example - ROC" expand="false" type="slide" />
             <slidelink slideid="_player.5nc7jy07LlT.5iyjijpW6cb" displaytext="Highest Qualification Module Example" expand="false" type="slide" />
+            <slidelink slideid="_player.5nc7jy07LlT.5Utw3CTxkLb" displaytext="Module example - ROC" expand="false" type="slide" />
             <slidelink slideid="_player.5nc7jy07LlT.5WsSLEMAJT1" displaytext="ACTIVITY: ROC Module Quiz" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.5nc7jy07LlT.6bhaVyQU6Ox" displaytext="ROC Quiz Questions" expand="false" type="slide" />
@@ -1691,7 +1701,7 @@
                 <slidelink slideid="_player.6702o5yGYHk.5eu5wm3LEeO" displaytext="Course Summary Quiz" expand="false" type="slide" />
               </links>
             </slidelink>
-            <slidelink slideid="_player.6702o5yGYHk.695VcearBWX" displaytext="Thank you for completing this course “Using Code Modules for faster IDI Analysis”" expand="false" type="slide" />
+            <slidelink slideid="_player.6702o5yGYHk.5t9EaaKQNEa" displaytext="Thank you for completing this course “Using Code Modules for faster IDI Analysis”" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
